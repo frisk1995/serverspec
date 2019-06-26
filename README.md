@@ -6,7 +6,6 @@ https://www.setouchino.cloud/blogs/38
 ## Rubyのインストール
 ```
 yum install ruby
-
 ```
 
 ## Serverspecのインストール
