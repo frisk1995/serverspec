@@ -1,6 +1,7 @@
 # server_spec
 # インストール＆セットアップ
-https://qiita.com/Tocyuki/items/5ce5250407da48886e45
+- 参考文献
+https://www.setouchino.cloud/blogs/38
 
 ## Rubyのインストール
 ```
